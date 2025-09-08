@@ -1,7 +1,7 @@
 #include <iostream>
 #include <stdlib.h>
 #include <ctime>
-#1
+
 using namespace std;
 
 int Poisk(int NL,int kL,int &PL,long int aL[]){
